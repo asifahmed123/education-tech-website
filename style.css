@@ -1,0 +1,11 @@
+.carousel-caption{
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     right: auto;
+     bottom: auto;
+}
+.carousel-item img{
+     object-fit: cover;
+     height: 80vh;
+}
